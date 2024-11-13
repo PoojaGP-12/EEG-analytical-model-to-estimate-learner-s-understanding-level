@@ -1,0 +1,2 @@
+# EEG-analytical-model-to-estimate-learner-s-understanding-level
+This project leverages EEG analysis to estimate learner comprehension by detecting neural patterns linked to confusion and engagement. Using machine learning and Python libraries like NumPy, Pandas, and Scikit-learn, the model classifies cognitive states in real time, aiming to enhance personalized learning through dynamic understanding tracking.
